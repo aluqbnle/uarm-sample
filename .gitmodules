@@ -1,0 +1,3 @@
+[submodule "uArmSDK"]
+	path = uArmSDK
+	url = https://github.com/uArm-Developer/uArm-Python-SDK
